@@ -1,0 +1,69 @@
+{
+    "Sanger": [
+        {
+            "tittel": "S&M",
+            "artist": "Rihanna",
+            "bilde": "assets/img/S&M.jpg",
+            "omartist": "En av verdens største pop- og R&B-artister, kjent for hits som Umbrella, Diamonds og We Found Love. Hun er også en suksessrik forretningskvinne med sitt merke Fenty.",
+            "sjanger": "elektropop, dance-pop",
+            "lengde": "4:03",
+            "beskrivelse": "En livlig, klubbvennlig poplåt med sensuelle og eksplisitte tekster om nytelse, kontroll og grensetesting.",
+            "anmeldelse": "7,5/10",
+            "streams": "1.2B",
+            "år": "2011",
+            "lenke": "https://open.spotify.com/track/0C4ejWmOTMv8vuYj85mf8m?si=c909774edbfd431e"
+        },
+        {
+            "tittel": "Timeless (feat. Playboi Carti)",
+            "artist": "The Weeknd & Playboi Carti",
+            "bilde": "assets/img/Timeless.jpg",
+            "omartist": "Kanadisk sanger og låtskriver kjent for sin unike blanding av R&B, pop og synthwave. Han slo gjennom med House of Balloons og har hatt massive hits som Blinding Lights og Starboy.",
+            "sjanger": "synth-pop, trap",
+            "år": "2024",
+            "beskrivelse": "En jevn og tilbakelent låt som kombinerer The Weeknds melodiske vokal med Playboi Cartis dempede trap-stil, og utforsker temaer som evig berømmelse.",
+            "anmeldelse": "7.5/10",
+            "streams": "651M",
+            "lengde": "4:16",
+            "lenke": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS?si=689a54cc49894c7b"
+        },
+        {
+            "tittel": "Starboy",
+            "artist": "The Weeknd",
+            "bilde": "assets/img/Starboy.jpg",
+            "omartist": "Kanadisk sanger og låtskriver kjent for sin unike blanding av R&B, pop og synthwave. Han slo gjennom med House of Balloons og har hatt massive hits som Blinding Lights og Starboy.",
+            "sjanger": "synth-pop, trap",
+            "år": "2016",
+            "beskrivelse": "En mørk og atmosfærisk låt der The Weeknds silkemyke vokal glir over Daft Punks futuristiske produksjon. Med pulserende synthlinjer og minimalistiske beats utforsker sangen temaer som berømmelse, overflod og identitetsskifte.",
+            "anmeldelse": "9/10",
+            "streams": "40M",
+            "lengde": "3:50",
+            "lenke": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB?si=625279b9f2a84034"
+        },
+        {
+            "tittel": "Snooze",
+            "artist": "SZA",
+            "bilde": "assets/img/Snooze.jpg",
+            "omartist": "Solána Imani Rowe også kjent som SZA er en amerikansk R&B-artist kjent for sin unike vokal, ærlige tekster og sjangerblanding av R&B, neo-soul og alternative elementer. Hun slo gjennom med Ctrl (2017) og befestet sin stjernestatus med SOS (2022).",
+            "sjanger": "R&B, Neo-Soul",
+            "år": "2022",
+            "beskrivelse": "En myk og drømmende R&B-ballade der SZAs luftige vokal flyter over en varm, minimalistisk beat. Låten fanger følelsen av lengsel og sårbarhet i et komplisert forhold, med en beroligende, nesten hypnotisk produksjon.",
+            "anmeldelse": "8.5/10",
+            "streams": "1,4B",
+            "lengde": "3:21",
+            "lenke": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2?si=bfb3ccaddd224a87"
+        },
+        {
+            "tittel": "Viva La Vida",
+            "artist": "Coldplay",
+            "bilde": "assets/img/VivaLaVida.jpg",
+            "omartist": "Coldplay er et britisk rockeband dannet i 1996, kjent for sin melodiske og følelsesladde musikk. De slo gjennom med Parachutes (2000) og har siden blitt et av verdens største band. Med låter som Viva La Vida, Fix You og Yellow har de skapt en unik lyd som kombinerer rock, pop og eksperimentelle elementer.",
+            "sjanger": "Poprock, Alternativ rock, Barokkpop",
+            "år": "2008",
+            "beskrivelse": "En episk og orkestral poprock-låt der Coldplay kombinerer storslåtte strykere med Chris Martins emosjonelle vokal. Teksten forteller en melankolsk historie om makt, fall og refleksjon.",
+            "anmeldelse": "9/10",
+            "streams": "2,3B",
+            "lengde": "4:02",
+            "lenke": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b?si=b941333061264a28"
+        }
+    ]
+}
